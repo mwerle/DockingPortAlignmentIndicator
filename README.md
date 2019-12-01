@@ -1,3 +1,11 @@
+# NEWS
+This mod now has an official GitHub repository!
+
+It is hosted here: https://github.com/bfishman/Docking-Port-Alignment-Indicator
+
+As such, this repository can be considered obsolete and deprecated.  Please fork the official repo instead.
+
+
 # DockingPortAlignmentIndicator
 
 This is a copy of NavyFish's Docking Port Alignment Indicator mod for Kerbal Space Program.
